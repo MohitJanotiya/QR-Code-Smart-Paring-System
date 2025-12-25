@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 QR Parking Management System
 
 Automated parking management system with QR code-based entry/exit, real-time slot tracking, and automated billing.
@@ -180,3 +181,7 @@ Feel free to fork, modify, and enhance this project!
 
 **Made with ❤️ for automated parking management**
 
+=======
+# QR-Code-Smart-Paring-System
+This system uses QR codes to automate parking. Each vehicle gets a unique QR. Entry scan assigns a slot, exit scan calculates billing, and the admin dashboard updates everything in real time using Flask APIs and SQLite.
+>>>>>>> 23ec1972d1cafcee96cf1a1a34fc681d9f257b93
